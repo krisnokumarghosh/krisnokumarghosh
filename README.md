@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Banner](https://github.com/krisnokumarghosh/krisnokumarghosh/blob/bcc2c734947b330d2d1a2c7578982560eee83d8e/image.png)
+
 <!--
 **krisnokumarghosh/krisnokumarghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
