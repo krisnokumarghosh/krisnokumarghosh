@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Krisno+Kumar+Ghosh" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Krisno+Kumar+Ghosh👋" />
 </p>
 
 
@@ -13,7 +13,7 @@ I am passionate about Web Development and currently learning the MERN Stack. I e
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,nextjs,express,mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,nextjs,express,mongodb,npm,git,github,vscode,figma" />
 </p>
 
 
@@ -33,8 +33,8 @@ I am passionate about Web Development and currently learning the MERN Stack. I e
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krisnokumarghosh&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=krisnokumarghosh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=krisnokumarghosh&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api?username=krisnokumarghosh&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
