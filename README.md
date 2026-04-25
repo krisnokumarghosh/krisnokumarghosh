@@ -13,7 +13,7 @@ I am passionate about Web Development and currently learning the MERN Stack. I e
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,nextjs,express,mongodb,npm,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,nextjs,express,betterauth,mongodb,npm,git,github,vscode,figma" />
 </p>
 
 
