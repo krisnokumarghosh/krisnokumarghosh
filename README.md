@@ -13,7 +13,7 @@ I am passionate about Web Development and currently learning the MERN Stack. I e
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,nextjs,express,betterauth,mongodb,npm,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,nextjs,express,mongodb,npm,git,github,vscode,figma" />
 </p>
 
 
@@ -33,8 +33,11 @@ I am passionate about Web Development and currently learning the MERN Stack. I e
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krisnokumarghosh&theme=tokyonight" />
-   <img src="https://github-readme-stats.vercel.app/api?username=krisnokumarghosh&show_icons=true&theme=tokyonight" />
+  
+![](https://github-readme-stats.shion.dev/api?username=krisnokumarghosh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=krisnokumarghosh&theme=tokyonight&hide_border=false)<br/>
+
+
 </p>
 
 ---
