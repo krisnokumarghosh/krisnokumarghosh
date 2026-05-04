@@ -33,11 +33,8 @@ I am passionate about Web Development and currently learning the MERN Stack. I e
 ## GitHub Stats
 
 <p align="center">
-  
-![](https://github-readme-stats.shion.dev/api?username=krisnokumarghosh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=krisnokumarghosh&theme=tokyonight&hide_border=false)<br/>
-
-
+  <img src="https://github-readme-stats.shion.dev/api?username=krisnokumarghosh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=krisnokumarghosh&theme=tokyonight&hide_border=false" /><br/>
 </p>
 
 ---
